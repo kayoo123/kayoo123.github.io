@@ -4,7 +4,7 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Kayoo123
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://kayoo123.github.io
@@ -42,6 +42,9 @@ social:
 menu:
   - title:        Home
     url:          /
+
+  - title:	  Tuto
+    url:	  /tuto
 
   - title:        About
     url:          /about
