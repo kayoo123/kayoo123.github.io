@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Thinny - The Infinite's Nymphet
 
-You can use the [editor on GitHub](https://github.com/kayoo123/kayoo123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----
 
-### Markdown
+### Attention
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm no longer maintaining this repository.
 
-```markdown
-Syntax highlighted code block
+If you want to add something, feel free to send a pull request, which I'll see if it's okay and merge.
 
-# Header 1
-## Header 2
-### Header 3
+----
 
-- Bulleted
-- List
+## Installation
+1. Clone the repo: `git clone https://github.com/camporez/Thinny.git Thinny`
+2. Open the folder: `cd Thinny`
+3. Install the dependencies: `bundle install`
+4. Build the website: `bundle exec jekyll serve`
 
-1. Numbered
-2. List
+## About
+Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
 
-**Bold** and _Italic_ and `Code` text
+(if you're looking for the [Ghost](http://ghost.org) release of the theme, check [this page](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra))
 
-[Link](url) and ![Image](src)
-```
+## Demo
+[![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.github.io/)
+The above image is a preview of how the post header looks on Thinny.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A live demo is available [on my personal blog](http://camporez.github.io/).
 
-### Jekyll Themes
+## More information
+Read the blog post [here](http://camporez.github.io/blog/thinny-2/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kayoo123/kayoo123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Reporting issues
+You can report an issue or request a feature [here](http://github.com/camporez/Thinny/issues) or on [twitter](http://twitter.com/iancamporez).
