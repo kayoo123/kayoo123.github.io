@@ -7,14 +7,14 @@ permalink:	/blog/:title
 title:            Thinny
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://camporez.github.io
+url:              http://kayoo123.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           jeremi desesquelles
+  url:            https://google.com/+jdesesquelles
 
 paginate:         5
 
@@ -24,19 +24,19 @@ cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          https://twitter.com/jdesesquelles
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/kayoo123
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+    url:          https://google.com/+jdesesquelles
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://camporez.github.io/atom.xml
+    url:          http://kayoo123.github.io/atom.xml
     desc:         Subscribe to my feed
 
 menu:
@@ -47,8 +47,8 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
+  author:         Jdesesquelles
+  url:            http://kayoo123.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
