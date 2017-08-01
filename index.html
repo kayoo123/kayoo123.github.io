@@ -11,11 +11,9 @@
     if (event.keyCode != 13) {
       return;
     }
-
     var pass = $("#pass").val();
     var url = window.location.href + hex_sha512(pass) + "/index.html";
     $("#status").text("...");
-
     $.ajax({
       type: 'HEAD',
       url: url,
@@ -48,6 +46,7 @@
       <input type="password" onkeyup="onPass(event)" id="pass">
       <span id="status"></span>
       </p>
+      <p><a href="https://github.com/gareins/githublock">Github repository</a></p>
     </div>
     <iframe id="iframe" width="100%" height="100%" frameborder="0" />
   </div>
